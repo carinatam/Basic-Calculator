@@ -1,2 +1,2 @@
 # Basic-Calculator
-High school Python Assignment
+High school Assignments
